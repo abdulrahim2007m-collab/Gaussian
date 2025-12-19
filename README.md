@@ -14,7 +14,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. print the solution vector formatter to two decimal places.
 
 ## Program:
-
+```
 '''
 Program to solve a matrix using Gaussian elimination without partial pivoting.
 Developed by: Abdul Rahim M
@@ -41,7 +41,7 @@ for i in range(n-1,-1,-1):
     x[i]=x[i]/a[i][i]
 for i in range(n):
     print("X%d = %0.2f"%(i,x[i]), end=' ')
-
+```
 ## Output:
 
 <img width="1484" height="824" alt="image" src="https://github.com/user-attachments/assets/0a06ce30-837d-44bd-bdeb-3b93856b2bb6" />
