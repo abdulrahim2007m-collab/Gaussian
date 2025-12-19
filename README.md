@@ -14,14 +14,9 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. print the solution vector formatter to two decimal places.
 
 ## Program:
-```
-/*
-Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: Abdul Rahim M
-RegisterNumber: 25015778
-*/
-```
-'''Program to solve a matrix using Gaussian elimination without partial pivoting.
+
+'''
+Program to solve a matrix using Gaussian elimination without partial pivoting.
 Developed by: Abdul Rahim M
 RegisterNumber: 25015778
 '''
